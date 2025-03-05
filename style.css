@@ -1,14 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Roboto, Perpetua;
     margin: 0;
     padding: 0;
-    background-color: #f4f3f2;
+    background-color: #eadbf1;
 }
 
 header {
-    background-color: #249;
+    background-color: #471f5a;
     color: white;
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
@@ -28,14 +28,14 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
 footer {
-    background-color: #436;
+    background-color: #471f5a;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     margin-top: 20px;
 }
